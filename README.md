@@ -1,3 +1,13 @@
+Philipp Sauerländer
+Kevin Lampe
+
+
+
+
+
+
+
+
 # 17-01-2024-website-kollaboration-und-pull-requests
 
 **Aufgabe: Übe die Zusammenarbeit und Pull Requests auf GitHub**
